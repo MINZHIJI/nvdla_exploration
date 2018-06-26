@@ -1,2 +1,4 @@
 # ignore ipython
 .ipynb_checkpoints/
+# ignore misc folder
+misc/

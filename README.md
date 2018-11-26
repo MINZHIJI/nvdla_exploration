@@ -1,6 +1,6 @@
-# nvdla_exploration
+# nvdla_exploration 
 
-This repo is NVDLA for low precision exploration. I will try to add more test.
+This repo is NVDLA for low precision exploration. I will try to add more test. (I am preparing my master's thesis, so the project is temporarily suspended)
 
 # Outline
 
